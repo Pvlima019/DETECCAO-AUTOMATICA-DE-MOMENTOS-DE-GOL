@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lima Netto, Pedroso de Lima
+    given-names: Sérgio, Paulo Victor
+title: "DETECÇÃO AUTOMÁTICA DE MOMENTOS DE GOL EM TRANSMISSÕES AUDIOVISUAIS DEPARTIDAS DE FUTEBOL"
+version: 1.0.0
+date-released: 2022-07-30
